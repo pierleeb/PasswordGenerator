@@ -1,8 +1,3 @@
-Certamente! Vamos criar um arquivo README.md para o seu projeto "PasswordGenerator". Este arquivo incluirá instruções sobre como usar o gerador de senhas e informações gerais sobre o projeto.
-
-### Conteúdo do arquivo README.md:
-
-```markdown
 # Password Generator
 
 Um simples gerador de senhas em HTML, CSS e JavaScript.
