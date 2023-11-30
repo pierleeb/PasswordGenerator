@@ -26,7 +26,3 @@ const charset = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!
 ## Licença
 
 Este projeto é licenciado sob a [Licença MIT](LICENSE).
-
----
-
-Sinta-se à vontade para adicionar mais seções ou personalizar conforme desejar. O README é uma ótima maneira de fornecer informações essenciais sobre o seu projeto para os usuários e colaboradores.
